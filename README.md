@@ -1,4 +1,6 @@
-# AMBER-TIMELINE
+# 安珀志大事纪年表
+
+基于 Kevin Knight 和 Kenn Crook和译自 Saul Jaffe 
 
 ## 原始
 * N/A 虚无
