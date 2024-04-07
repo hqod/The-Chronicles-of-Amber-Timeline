@@ -1,6 +1,6 @@
 # 安珀志大事纪年表
 
-基于 Kevin Knight 和 Kenn Crook 的 Timeline 翻译
+基于 Kevin Knight 和 Kenn Crook 的时间线整理翻译
 
 ## 原始岁月
 * 虚无
